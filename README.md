@@ -1,4 +1,4 @@
-# __gomnemonic__
+# __bip39__
 ## Introduction
 This package is an implementation of the __[BIP39](https://github.com/bitcoin/bips/blob/master/bip-0039.mediawiki)__ specifications in the __[Go programming language](https://go.dev/)__. You can read the documentation __[here](https://pkg.go.dev/github.com/augcos/bip39)__.
 
